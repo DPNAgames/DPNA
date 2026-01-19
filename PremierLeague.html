@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="logoDPNA.png" type="image/x-icon">
+    <title>Premier League</title>
+    <link rel="stylesheet" href="styleDPNAFutGameComp.css">
+    <script src="PremierLeague.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Jogos da Premier League</h1>
+        <br>
+        <div class="alterarRodada">
+            <button id="btnAnterior" style="margin: auto;" onclick="mudarRodada(-1)">
+                <img width="10%" src="setaEsquerda.png" alt="">
+            </button>
+            <h1 id="rodadaTitulo">Rodada</h1>
+            <h1 id="rodada"></h1>
+            <button id="btnProximo" style="margin: auto;" onclick="mudarRodada(1)">
+                <img width="10%" src="setaDireita.png" alt="">
+            </button>
+            <br><br><br>
+        </div>
+        <ul id="lista-jogos">
+            <!-- Jogos serão carregados aqui dinamicamente -->
+        </ul>
+    </div>
+</body>
+
+<footer>
+    <h1><img src="logoDPNA.png" width="15%" alt="logo"></h1>
+    <p class="copyright">&copy; Copyright DPNA CRIAS</p>
+    <br><br>
+</footer>
+
+</html>

@@ -1,0 +1,127 @@
+/*Corpo--------------------------------------------------------------*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.escudos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.escudos img {
+    width: 30px;
+    height: 30px;
+}
+
+.match-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.match-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+.alterarRodada {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.alterarRodada button {
+    width: 50px;
+    /* Tamanho fixo */
+    height: 50px;
+    /* Tamanho fixo */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.alterarRodada button img {
+    width: 100%;
+    /* Garante que a imagem ocupe todo o botão */
+    height: auto;
+}
+
+.alterarRodada h1 {
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+/*Rodapé-------------------------------------------------------------*/
+footer {
+    text-align: center;
+    background: #eded05;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.copyright {
+    color: #0c0000;
+    font-size: 13px;
+}
+
+* {
+    margin: 0;
+}

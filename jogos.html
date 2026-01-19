@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="logoDPNA.png" type="image/x-icon">
+    <title>Nosos Jogos</title>
+    <link id="estilo-tema" rel="stylesheet" href="jogos.css">
+</head>
+
+<body>
+    <center>
+        <p id="mensagemInicio1" class="mensagemInicio">
+ADICIONAR TEXTO
+        </p>
+    </center>
+
+    <div id="telaJogos">
+        <main>
+            <br>
+            <h1>O QUE VOCÊ GOSTARIA DE JOGAR NESSE MOMENTO?</h1>
+            <br>
+            <center>
+                <ul class="Campeonatos">
+                    <button onmouseover="descricaoJogo(1)" onmouseout="descricaoJogo(0)"
+                        onclick="iniciarJogo(jogo = 1)">
+                        <img src="DPNAFutGame.png" width="100%">
+                    </button>
+                </ul>
+            </center>
+        </main>
+
+        <footer>
+            <h1><img src="logoDPNA.png" width="15%" alt="logo"></h1>
+            <p class="copyright">&copy; Copyright DPNA CRIAS</p>
+            <br><br>
+        </footer>
+
+    </div>
+</body>
+
+<script>
+    var jogo = document.getElementById("jogo");
+
+    document.getElementById("mensagemInicio1").style.display = "none";
+
+    function descricaoJogo(jogo) {
+        if (jogo == 1) {
+            document.getElementById("mensagemInicio1").style.display = "block";
+        } else if (jogo == 0) {
+            document.getElementById("mensagemInicio1").style.display = "none";
+        }
+    }
+
+    function iniciarJogo() {
+        if (jogo == 1) {
+            window.location.href = "competicoes.html";
+        }
+    }
+</script>
+
+</html>

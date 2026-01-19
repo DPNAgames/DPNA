@@ -1,0 +1,44 @@
+/*Corpo--------------------------------------------------------------*/
+
+main {
+    background: #000000;
+    padding: 0px 160px;
+    font-size: 23px;
+}
+
+.Campeonatos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.Campeonatos a {
+    display: inline-block;
+    width: 30%;
+    margin: 1.5% 1.5%;
+    padding: 30px 17px;
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+
+.Campeonatos a:hover {
+    background: #eded05;
+    transition: background-color 0.5s ease;
+    cursor: pointer;
+}
+
+/*Rodapé-------------------------------------------------------------*/
+footer {
+    text-align: center;
+    background: #eded05;
+}
+
+.copyright {
+    color: #0c0000;
+    font-size: 13px;
+}
+
+* {
+    margin: 0;
+}

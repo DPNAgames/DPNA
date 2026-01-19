@@ -1,0 +1,126 @@
+/*Corpo--------------------------------------------------------------*/
+
+main {
+    background: #000000;
+    padding: 0px 160px;
+    font-size: 23px;
+}
+
+h1 {
+    text-align: center;
+    color: #eded05;
+}
+
+p {
+    color: #eded05;
+}
+
+.Campeonatos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.Campeonatos button {
+    width: 25%;
+    margin: 1.5% 5%;
+    padding: 34.9px 17px;
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+
+.Campeonatos button:hover {
+    background: #eded05;
+    transition: background-color 0.5s ease;
+    cursor: pointer;
+}
+
+.mensagemInicio {
+    background-color: #f0f0f0;
+    text-align: left;
+    margin-bottom: 128px;
+    width: 650px;
+    padding: 18px;
+    color: #000000;
+}
+
+#mensagemInicio1 {
+    position: absolute;
+    top: 58.8%;
+    left: 71.3%;
+    transform: translate(-50%, -50%);
+}
+
+#mensagemInicio2 {
+    position: absolute;
+    top: 58.8%;
+    right: 20.8%;
+    transform: translate(-50%, -50%);
+}
+
+#mensagemInicio3 {
+    position: absolute;
+    top: 108.8%;
+    left: 71.3%;
+    transform: translate(-50%, -50%);
+}
+
+#mensagemInicio4 {
+    position: absolute;
+    top: 108.8%;
+    right: 20.8%;
+    transform: translate(-50%, -50%);
+}
+
+#mensagemInicio5 {
+    position: absolute;
+    top: 158.5%;
+    left: 71.3%;
+    transform: translate(-50%, -50%);
+}
+
+#mensagemInicio6 {
+    position: absolute;
+    top: 158.5%;
+    right: 20.8%;
+    transform: translate(-50%, -50%);
+}
+
+#mensagemInicio7 {
+    position: absolute;
+    top: 208.5%;
+    right: 33.2%;
+    transform: translate(-50%, -50%);
+}
+
+.mensagemInicio input {
+    width: 50%;
+    padding: 10px;
+    margin-left: -10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+
+.bota:hover {
+    transition: background-color 0.5s ease;
+    background-color: #000000;
+    color: white;
+    cursor: pointer;
+}
+
+/*Rodapé-------------------------------------------------------------*/
+footer {
+    text-align: center;
+    background: #eded05;
+}
+
+.copyright {
+    color: #0c0000;
+    font-size: 13px;
+}
+
+* {
+    margin: 0;
+}

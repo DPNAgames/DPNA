@@ -1,0 +1,59 @@
+/*Corpo--------------------------------------------------------------*/
+
+main {
+    background: #000000;
+    padding: 0px 160px;
+    font-size: 23px;
+}
+
+h1 {
+    text-align: center;
+    color: #eded05;
+}
+
+p {
+    color: #eded05;
+}
+
+form input {
+    display: block;
+    padding: 10px 20px;
+    width: 50%;
+}
+
+.botão {
+    width: 130px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border: solid 1px blue;
+    border-radius: 20%;
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+}
+
+.botão:hover {
+    background-color: #f00707;
+    transform: scale(1.2);
+}
+
+.linkCadastro {
+    cursor: pointer;
+    color: #4CAF50;
+    text-decoration: underline;
+    font-size: 19px;
+}
+
+/*Rodapé-------------------------------------------------------------*/
+footer {
+    text-align: center;
+    background: #eded05;
+}
+
+.copyright {
+    color: #0c0000;
+    font-size: 13px;
+}
+
+* {
+    margin: 0;
+}
