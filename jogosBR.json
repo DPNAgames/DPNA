@@ -3,80 +3,100 @@
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "vitória.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "grêmio.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Vasco",
+        "placarB": "X",
         "logoTimeB": "vasco.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 1,
         "data": "29/01/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 1,
         "data": "29/01/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
@@ -86,80 +106,100 @@
         "rodada": 2,
         "data": "04/02/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 2,
         "data": "04/02/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 2,
         "data": "04/02/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 2,
         "data": "04/02/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 2,
         "data": "04/02/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 2,
         "data": "04/02/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 2,
         "data": "05/02/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 2,
         "data": "05/02/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 2,
         "data": "05/02/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 2,
         "data": "05/02/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
@@ -169,80 +209,100 @@
         "rodada": 3,
         "data": "10/02/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 3,
         "data": "11/02/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 3,
         "data": "11/02/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 3,
         "data": "11/02/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 3,
         "data": "11/02/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 3,
         "data": "11/02/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 3,
         "data": "12/02/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 3,
         "data": "12/02/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 3,
         "data": "12/02/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 3,
         "data": "12/02/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
@@ -252,80 +312,100 @@
         "rodada": 4,
         "data": "25/02/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 4,
         "data": "25/02/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 4,
         "data": "26/02/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 4,
         "data": "26/02/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 4,
         "data": "26/02/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 4,
         "data": "26/02/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 4,
         "data": "26/02/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 4,
         "data": "26/02/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 4,
         "data": "26/02/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 4,
         "data": "26/02/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
@@ -335,80 +415,100 @@
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 5,
         "data": "11/03/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
@@ -418,80 +518,100 @@
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 6,
         "data": "14/03/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
@@ -501,80 +621,100 @@
         "rodada": 7,
         "data": "21/03/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 7,
         "data": "21/03/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 7,
         "data": "21/03/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 7,
         "data": "21/03/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 7,
         "data": "21/03/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 7,
         "data": "22/03/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 7,
         "data": "22/03/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 7,
         "data": "22/03/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 7,
         "data": "22/03/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 7,
         "data": "22/03/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
@@ -584,80 +724,100 @@
         "rodada": 8,
         "data": "28/03/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 8,
         "data": "28/03/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 8,
         "data": "28/03/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 8,
         "data": "28/03/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 8,
         "data": "29/03/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 8,
         "data": "29/03/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 8,
         "data": "29/03/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 8,
         "data": "29/03/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 8,
         "data": "29/03/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 8,
         "data": "29/03/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
@@ -667,80 +827,100 @@
         "rodada": 9,
         "data": "04/04/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 9,
         "data": "04/04/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 9,
         "data": "04/04/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 9,
         "data": "04/04/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 9,
         "data": "05/04/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 9,
         "data": "05/04/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 9,
         "data": "05/04/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 9,
         "data": "05/04/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 9,
         "data": "05/04/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 9,
         "data": "05/04/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
@@ -750,80 +930,100 @@
         "rodada": 10,
         "data": "11/04/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 10,
         "data": "11/04/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 10,
         "data": "11/04/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 10,
         "data": "11/04/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 10,
         "data": "12/04/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 10,
         "data": "12/04/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 10,
         "data": "12/04/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 10,
         "data": "12/04/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 10,
         "data": "12/04/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 10,
         "data": "12/04/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -833,80 +1033,100 @@
         "rodada": 11,
         "data": "18/04/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 11,
         "data": "18/04/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 11,
         "data": "18/04/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 11,
         "data": "18/04/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 11,
         "data": "19/04/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 11,
         "data": "19/04/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 11,
         "data": "19/04/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 11,
         "data": "19/04/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 11,
         "data": "19/04/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 11,
         "data": "19/04/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
@@ -916,80 +1136,100 @@
         "rodada": 12,
         "data": "25/04/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 12,
         "data": "25/04/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 12,
         "data": "25/04/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 12,
         "data": "25/04/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 12,
         "data": "26/04/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 12,
         "data": "26/04/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 12,
         "data": "26/04/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 12,
         "data": "26/04/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 12,
         "data": "26/04/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 12,
         "data": "26/04/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -999,80 +1239,100 @@
         "rodada": 13,
         "data": "02/05/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 13,
         "data": "02/05/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 13,
         "data": "02/05/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 13,
         "data": "02/05/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 13,
         "data": "03/05/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 13,
         "data": "03/05/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 13,
         "data": "03/05/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 13,
         "data": "03/05/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 13,
         "data": "03/05/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 13,
         "data": "03/05/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
@@ -1082,80 +1342,100 @@
         "rodada": 14,
         "data": "09/05/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 14,
         "data": "09/05/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 14,
         "data": "09/05/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 14,
         "data": "09/05/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 14,
         "data": "10/05/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 14,
         "data": "10/05/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 14,
         "data": "10/05/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 14,
         "data": "10/05/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 14,
         "data": "10/05/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 14,
         "data": "10/05/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
@@ -1165,80 +1445,100 @@
         "rodada": 15,
         "data": "16/05/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 15,
         "data": "16/05/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 15,
         "data": "16/05/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 15,
         "data": "16/05/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 15,
         "data": "17/05/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 15,
         "data": "17/05/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 15,
         "data": "17/05/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 15,
         "data": "17/05/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 15,
         "data": "17/05/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 15,
         "data": "17/05/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
@@ -1248,80 +1548,100 @@
         "rodada": 16,
         "data": "23/05/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 16,
         "data": "23/05/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 16,
         "data": "23/05/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 16,
         "data": "23/05/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 16,
         "data": "24/05/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 16,
         "data": "24/05/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 16,
         "data": "24/05/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 16,
         "data": "24/05/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 16,
         "data": "24/05/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 16,
         "data": "24/05/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
@@ -1331,80 +1651,100 @@
         "rodada": 17,
         "data": "30/05/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 17,
         "data": "30/05/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 17,
         "data": "30/05/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 17,
         "data": "30/05/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 17,
         "data": "31/05/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 17,
         "data": "31/05/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 17,
         "data": "31/05/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 17,
         "data": "31/05/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 17,
         "data": "31/05/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 17,
         "data": "31/05/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
@@ -1414,80 +1754,100 @@
         "rodada": 18,
         "data": "06/06/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 18,
         "data": "06/06/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 18,
         "data": "06/06/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 18,
         "data": "06/06/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 18,
         "data": "07/06/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 18,
         "data": "07/06/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 18,
         "data": "07/06/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 18,
         "data": "07/06/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 18,
         "data": "07/06/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 18,
         "data": "07/06/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -1497,80 +1857,100 @@
         "rodada": 19,
         "data": "13/06/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 19,
         "data": "13/06/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 19,
         "data": "13/06/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 19,
         "data": "13/06/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 19,
         "data": "14/06/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 19,
         "data": "14/06/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 19,
         "data": "14/06/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 19,
         "data": "14/06/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 19,
         "data": "14/06/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 19,
         "data": "14/06/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -1580,80 +1960,100 @@
         "rodada": 20,
         "data": "20/06/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 20,
         "data": "20/06/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 20,
         "data": "20/06/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 20,
         "data": "20/06/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 20,
         "data": "21/06/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 20,
         "data": "21/06/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 20,
         "data": "21/06/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 20,
         "data": "21/06/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 20,
         "data": "21/06/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 20,
         "data": "21/06/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
@@ -1663,80 +2063,100 @@
         "rodada": 21,
         "data": "27/06/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 21,
         "data": "27/06/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 21,
         "data": "27/06/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 21,
         "data": "27/06/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 21,
         "data": "28/06/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 21,
         "data": "28/06/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 21,
         "data": "28/06/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 21,
         "data": "28/06/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 21,
         "data": "28/06/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 21,
         "data": "28/06/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
@@ -1746,80 +2166,100 @@
         "rodada": 22,
         "data": "04/07/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 22,
         "data": "04/07/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 22,
         "data": "04/07/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 22,
         "data": "04/07/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 22,
         "data": "05/07/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 22,
         "data": "05/07/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 22,
         "data": "05/07/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 22,
         "data": "05/07/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 22,
         "data": "05/07/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 22,
         "data": "05/07/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
@@ -1829,80 +2269,100 @@
         "rodada": 23,
         "data": "11/07/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 23,
         "data": "11/07/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 23,
         "data": "11/07/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 23,
         "data": "11/07/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 23,
         "data": "12/07/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 23,
         "data": "12/07/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 23,
         "data": "12/07/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 23,
         "data": "12/07/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 23,
         "data": "12/07/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 23,
         "data": "12/07/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
@@ -1912,80 +2372,100 @@
         "rodada": 24,
         "data": "18/07/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 24,
         "data": "18/07/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 24,
         "data": "18/07/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 24,
         "data": "18/07/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 24,
         "data": "19/07/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 24,
         "data": "19/07/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 24,
         "data": "19/07/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 24,
         "data": "19/07/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 24,
         "data": "19/07/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 24,
         "data": "19/07/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
@@ -1995,80 +2475,100 @@
         "rodada": 25,
         "data": "25/07/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 25,
         "data": "25/07/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 25,
         "data": "25/07/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 25,
         "data": "25/07/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 25,
         "data": "26/07/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 25,
         "data": "26/07/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 25,
         "data": "26/07/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 25,
         "data": "26/07/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 25,
         "data": "26/07/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 25,
         "data": "26/07/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
@@ -2078,80 +2578,100 @@
         "rodada": 26,
         "data": "01/08/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 26,
         "data": "01/08/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 26,
         "data": "01/08/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 26,
         "data": "01/08/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 26,
         "data": "02/08/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 26,
         "data": "02/08/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 26,
         "data": "02/08/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 26,
         "data": "02/08/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 26,
         "data": "02/08/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 26,
         "data": "02/08/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -2161,80 +2681,100 @@
         "rodada": 27,
         "data": "08/08/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 27,
         "data": "08/08/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 27,
         "data": "08/08/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 27,
         "data": "08/08/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 27,
         "data": "09/08/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 27,
         "data": "09/08/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 27,
         "data": "09/08/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 27,
         "data": "09/08/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 27,
         "data": "09/08/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 27,
         "data": "09/08/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
@@ -2244,80 +2784,100 @@
         "rodada": 28,
         "data": "15/08/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 28,
         "data": "15/08/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 28,
         "data": "15/08/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 28,
         "data": "15/08/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 28,
         "data": "16/08/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 28,
         "data": "16/08/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 28,
         "data": "16/08/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 28,
         "data": "16/08/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 28,
         "data": "16/08/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 28,
         "data": "16/08/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -2327,80 +2887,100 @@
         "rodada": 29,
         "data": "22/08/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 29,
         "data": "22/08/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 29,
         "data": "22/08/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 29,
         "data": "22/08/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 29,
         "data": "23/08/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 29,
         "data": "23/08/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 29,
         "data": "23/08/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 29,
         "data": "23/08/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 29,
         "data": "23/08/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 29,
         "data": "23/08/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
@@ -2410,80 +2990,100 @@
         "rodada": 30,
         "data": "29/08/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 30,
         "data": "29/08/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 30,
         "data": "29/08/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 30,
         "data": "29/08/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 30,
         "data": "30/08/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 30,
         "data": "30/08/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 30,
         "data": "30/08/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 30,
         "data": "30/08/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 30,
         "data": "30/08/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 30,
         "data": "30/08/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
@@ -2493,80 +3093,100 @@
         "rodada": 31,
         "data": "05/09/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 31,
         "data": "05/09/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 31,
         "data": "05/09/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 31,
         "data": "05/09/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 31,
         "data": "06/09/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 31,
         "data": "06/09/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 31,
         "data": "06/09/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 31,
         "data": "06/09/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 31,
         "data": "06/09/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 31,
         "data": "06/09/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -2576,80 +3196,100 @@
         "rodada": 32,
         "data": "12/09/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 32,
         "data": "12/09/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 32,
         "data": "12/09/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 32,
         "data": "12/09/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 32,
         "data": "13/09/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 32,
         "data": "13/09/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 32,
         "data": "13/09/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 32,
         "data": "13/09/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 32,
         "data": "13/09/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 32,
         "data": "13/09/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
@@ -2659,80 +3299,100 @@
         "rodada": 33,
         "data": "19/09/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 33,
         "data": "19/09/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 33,
         "data": "19/09/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 33,
         "data": "19/09/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 33,
         "data": "20/09/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 33,
         "data": "20/09/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 33,
         "data": "20/09/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 33,
         "data": "20/09/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 33,
         "data": "20/09/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 33,
         "data": "20/09/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -2742,80 +3402,100 @@
         "rodada": 34,
         "data": "26/09/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 34,
         "data": "26/09/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 34,
         "data": "26/09/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 34,
         "data": "26/09/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 34,
         "data": "27/09/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 34,
         "data": "27/09/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 34,
         "data": "27/09/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 34,
         "data": "27/09/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 34,
         "data": "27/09/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 34,
         "data": "27/09/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
@@ -2825,80 +3505,100 @@
         "rodada": 35,
         "data": "03/10/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 35,
         "data": "03/10/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 35,
         "data": "03/10/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 35,
         "data": "03/10/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 35,
         "data": "04/10/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 35,
         "data": "04/10/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 35,
         "data": "04/10/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 35,
         "data": "04/10/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 35,
         "data": "04/10/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 35,
         "data": "04/10/2026",
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -2908,80 +3608,100 @@
         "rodada": 36,
         "data": "10/10/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 36,
         "data": "10/10/2026",
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 36,
         "data": "10/10/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 36,
         "data": "10/10/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 36,
         "data": "11/10/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 36,
         "data": "11/10/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 36,
         "data": "11/10/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "rodada": 36,
         "data": "11/10/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 36,
         "data": "11/10/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 36,
         "data": "11/10/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
@@ -2991,80 +3711,100 @@
         "rodada": 37,
         "data": "17/10/2026",
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "rodada": 37,
         "data": "17/10/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 37,
         "data": "17/10/2026",
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 37,
         "data": "17/10/2026",
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 37,
         "data": "18/10/2026",
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 37,
         "data": "18/10/2026",
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     },
     {
         "rodada": 37,
         "data": "18/10/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 37,
         "data": "18/10/2026",
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "rodada": 37,
         "data": "18/10/2026",
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "rodada": 37,
         "data": "18/10/2026",
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
@@ -3074,80 +3814,100 @@
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "rodada": 38,
         "data": "25/10/2026",
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
@@ -3155,122 +3915,162 @@
     },
     {
         "timeA": "Athletico-PR",
+        "placarA": "X",
         "logoTimeA": "AthleticoPR.png",
         "timeB": "Athletico-PR",
+        "placarB": "X",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "timeA": "Atlético-MG",
+        "placarA": "X",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Atlético-MG",
+        "placarB": "X",
         "logoTimeB": "AtléticoMineiro.png"
     },
     {
         "timeA": "Bahia",
+        "placarA": "X",
         "logoTimeA": "Bahia.png",
         "timeB": "Bahia",
+        "placarB": "X",
         "logoTimeB": "Bahia.png"
     },
     {
         "timeA": "Botafogo",
+        "placarA": "X",
         "logoTimeA": "Botafogo.png",
         "timeB": "Botafogo",
+        "placarB": "X",
         "logoTimeB": "Botafogo.png"
     },
     {
         "timeA": "Chapecoense",
+        "placarA": "X",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Chapecoense",
+        "placarB": "X",
         "logoTimeB": "Chapecoense.png"
     },
     {
         "timeA": "Corinthians",
+        "placarA": "X",
         "logoTimeA": "Corinthians.png",
         "timeB": "Corinthians",
+        "placarB": "X",
         "logoTimeB": "Corinthians.png"
     },
     {
         "timeA": "Coritiba",
+        "placarA": "X",
         "logoTimeA": "Coritiba.png",
         "timeB": "Coritiba",
+        "placarB": "X",
         "logoTimeB": "Coritiba.png"
     },
     {
         "timeA": "Cruzeiro",
+        "placarA": "X",
         "logoTimeA": "Cruzeiro.png",
         "timeB": "Cruzeiro",
+        "placarB": "X",
         "logoTimeB": "Cruzeiro.png"
     },
     {
         "timeA": "Flamengo",
+        "placarA": "X",
         "logoTimeA": "Flamengo.png",
         "timeB": "Flamengo",
+        "placarB": "X",
         "logoTimeB": "Flamengo.png"
     },
     {
         "timeA": "Fluminense",
+        "placarA": "X",
         "logoTimeA": "Fluminense.png",
         "timeB": "Fluminense",
+        "placarB": "X",
         "logoTimeB": "Fluminense.png"
     },
     {
         "timeA": "Grêmio",
+        "placarA": "X",
         "logoTimeA": "Grêmio.png",
         "timeB": "Grêmio",
+        "placarB": "X",
         "logoTimeB": "Grêmio.png"
     },
     {
         "timeA": "Internacional",
+        "placarA": "X",
         "logoTimeA": "Internacional.png",
         "timeB": "Internacional",
+        "placarB": "X",
         "logoTimeB": "Internacional.png"
     },
     {
         "timeA": "Mirassol",
+        "placarA": "X",
         "logoTimeA": "Mirassol.png",
         "timeB": "Mirassol",
+        "placarB": "X",
         "logoTimeB": "Mirassol.png"
     },
     {
         "timeA": "Palmeiras",
+        "placarA": "X",
         "logoTimeA": "Palmeiras.png",
         "timeB": "Palmeiras",
+        "placarB": "X",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "timeA": "Red Bull Bragantino",
+        "placarA": "X",
         "logoTimeA": "RBBragantino.png",
         "timeB": "Red Bull Bragantino",
+        "placarB": "X",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "timeA": "Remo",
+        "placarA": "X",
         "logoTimeA": "Remo.png",
         "timeB": "Remo",
+        "placarB": "X",
         "logoTimeB": "Remo.png"
     },
     {
         "timeA": "Santos",
+        "placarA": "X",
         "logoTimeA": "Santos.png",
         "timeB": "Santos",
+        "placarB": "X",
         "logoTimeB": "Santos.png"
     },
     {
         "timeA": "São Paulo",
+        "placarA": "X",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "São Paulo",
+        "placarB": "X",
         "logoTimeB": "SãoPaulo.png"
     },
     {
         "timeA": "Vasco da Gama",
+        "placarA": "X",
         "logoTimeA": "Vasco.png",
         "timeB": "Vasco da Gama",
+        "placarB": "X",
         "logoTimeB": "Vasco.png"
     },
     {
         "timeA": "Vitória",
+        "placarA": "X",
         "logoTimeA": "Vitória.png",
         "timeB": "Vitória",
+        "placarB": "X",
         "logoTimeB": "Vitória.png"
     }
 ]
