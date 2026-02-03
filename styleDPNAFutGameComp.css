@@ -105,6 +105,12 @@ button:hover {
     font-size: 24px;
 }
 
+.placar {
+    font-size: 350%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 /*Rodapé-------------------------------------------------------------*/
 footer {
     text-align: center;
