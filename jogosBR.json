@@ -3,100 +3,100 @@
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Atlético-MG",
-        "placarA": "X",
+        "placarA": "2",
         "logoTimeA": "AtléticoMineiro.png",
         "timeB": "Palmeiras",
-        "placarB": "X",
+        "placarB": "2",
         "logoTimeB": "Palmeiras.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Internacional",
-        "placarA": "X",
+        "placarA": "0",
         "logoTimeA": "Internacional.png",
         "timeB": "Athletico-PR",
-        "placarB": "X",
+        "placarB": "1",
         "logoTimeB": "AthleticoPR.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Coritiba",
-        "placarA": "X",
+        "placarA": "0",
         "logoTimeA": "Coritiba.png",
         "timeB": "Red Bull Bragantino",
-        "placarB": "X",
+        "placarB": "1",
         "logoTimeB": "RBBragantino.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Vitória",
-        "placarA": "X",
-        "logoTimeA": "vitória.png",
+        "placarA": "2",
+        "logoTimeA": "Vitória.png",
         "timeB": "Remo",
-        "placarB": "X",
+        "placarB": "0",
         "logoTimeB": "Remo.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Fluminense",
-        "placarA": "X",
+        "placarA": "2",
         "logoTimeA": "Fluminense.png",
         "timeB": "Grêmio",
-        "placarB": "X",
-        "logoTimeB": "grêmio.png"
+        "placarB": "1",
+        "logoTimeB": "Grêmio.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Mirassol",
-        "placarA": "X",
+        "placarA": "2",
         "logoTimeA": "Mirassol.png",
         "timeB": "Vasco",
-        "placarB": "X",
-        "logoTimeB": "vasco.png"
+        "placarB": "1",
+        "logoTimeB": "Vasco.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "Chapecoense",
-        "placarA": "X",
+        "placarA": "4",
         "logoTimeA": "Chapecoense.png",
         "timeB": "Santos",
-        "placarB": "X",
+        "placarB": "2",
         "logoTimeB": "Santos.png"
     },
     {
         "rodada": 1,
         "data": "28/01/2026",
         "timeA": "São Paulo",
-        "placarA": "X",
+        "placarA": "2",
         "logoTimeA": "SãoPaulo.png",
         "timeB": "Flamengo",
-        "placarB": "X",
+        "placarB": "1",
         "logoTimeB": "Flamengo.png"
     },
     {
         "rodada": 1,
         "data": "29/01/2026",
         "timeA": "Corinthians",
-        "placarA": "X",
+        "placarA": "1",
         "logoTimeA": "Corinthians.png",
         "timeB": "Bahia",
-        "placarB": "X",
+        "placarB": "2",
         "logoTimeB": "Bahia.png"
     },
     {
         "rodada": 1,
         "data": "29/01/2026",
         "timeA": "Botafogo",
-        "placarA": "X",
+        "placarA": "4",
         "logoTimeA": "Botafogo.png",
         "timeB": "Cruzeiro",
-        "placarB": "X",
+        "placarB": "0",
         "logoTimeB": "Cruzeiro.png"
     },
     {
@@ -4074,3 +4074,4 @@
         "logoTimeB": "Vitória.png"
     }
 ]
+
