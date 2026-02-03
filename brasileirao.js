@@ -1,4 +1,4 @@
-let rodadaAtual = 1; // Altere este valor para definir a rodada inicial a ser exibida
+let rodadaAtual = 2; // Altere este valor para definir a rodada inicial a ser exibida
 const rodadaMin = 1;
 const rodadaMax = 38;
 
@@ -28,12 +28,14 @@ async function atualizarJogos() {
                 <span>${jogo.data}</span>
                 <div class="match-container">
                     <img src="${jogo.logoTimeA}" alt="Escudo ${jogo.timeA}">
+                    <span class="placar">${jogo.placarA}</span>
                     <div class="match-info">
                         <span>${jogo.timeA}</span>
-                        <span>VS</span>
+                        <span>VS</span>                         
                         <span>${jogo.timeB}</span>
                         <button>Apostar</button>
                     </div>
+                    <span class="placar">${jogo.placarB}</span>
                     <img src="${jogo.logoTimeB}" alt="Escudo ${jogo.timeB}">
                 </div>`;
             listaJogos.appendChild(item);
